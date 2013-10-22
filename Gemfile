@@ -20,8 +20,8 @@ group :assets do
 end
 
 gem 'jquery-rails'
-# gem 'beta_invite', path: '../beta_invite'
-gem 'beta_invite', git: 'git://github.com/ktkaushik/beta_invite.git', branch: 'dev'
+
+gem 'beta_invite', git: 'git://github.com/ktkaushik/beta_invite.git'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
