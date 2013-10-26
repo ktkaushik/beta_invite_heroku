@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/ktkaushik/beta_invite.git
-  revision: 43caecf05db59f9681280b368715ef04f4f5f386
+  revision: 9e771419591061ff7c4edea335f472081dc0b974
   specs:
-    beta_invite (0.1.2)
+    beta_invite (1.0.0)
       rails (~> 3.2.13)
 
 GEM

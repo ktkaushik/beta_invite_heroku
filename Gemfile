@@ -22,6 +22,7 @@ end
 gem 'jquery-rails'
 
 gem 'beta_invite', git: 'git://github.com/ktkaushik/beta_invite.git'
+# gem 'beta_invite', path: '../beta_invite'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
